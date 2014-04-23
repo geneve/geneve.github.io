@@ -1,0 +1,17 @@
+#nav{    
+  background-color: #CDC5BF;
+  width: 150px;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+#main{
+  background-color: #CDC5BF;
+  width: 500;
+  float: left;
+  margin: 0;
+  padding: 0;
+  display: inline;     
+}
