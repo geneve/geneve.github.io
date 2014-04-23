@@ -1,1 +1,1 @@
-Main repo for Github Pages project site.
+Main repo for Github Pages, Boostrap project site.
