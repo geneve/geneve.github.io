@@ -1,18 +1,9 @@
 ---
 layout: default
 ---
+<h1>{{ page.title }}</h1>
+<span class="time">{{ page.date | date_to_string }}</span>
 
-<article>
-        <header>
-            <h2>{{ page.title }}</h2>
-            <span><i class="icon-clock"></i><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span><br/>
-            <span class="category"><i class="icon-tag"></i> {{ page.categories | category_links }}</span><br/>
-            <span class="author"><i class="icon-user"></i> {% if page.author %}{{page.author}}{% else %}{{site.author}}{% endif%}</span>
-        </header>
-
-        <div class="entry">{{ content }}</div>
-
-        <footer><!-- additional info --></footer>
-
-</article>
-
+<div class="content">
+	<div class="post">{{ content }}</div>
+</div>
