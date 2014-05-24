@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, world!"
 date:   2014-05-23 17:39:00 
-categories: pilot
+categories: blog
 ---
 # Dabbling
 It's been a couple of months since I've started dabbling into HTML and CSS. I was just trying to get a static site going for my [Raspberry Pi](http://www.raspberrypi.org/) web server, at first. I didn't think I'd open up a can of worms.
