@@ -2,13 +2,13 @@ name: Geneve Reyes
 markdown: redcarpet
 pygments: true
 github: https://www.github.com/geneve
-about: Name's Geneve Reyes located in San Francisco. Currently dabbling in Ruby for web development or system administration.
+about: Name's Gene, located in San Francisco. Currently dabbling in object-oriented technologies for junior software development.
 urls:
     - text: github
       url: https://github.com/geneve
     - text: linkedin
       url: https://www.linkedin.com/in/genevereyes
     - text: resume
-      url: /misc/reyesgeneve.pdf
+      url: img/reyesgeneve.pdf
     - text: email
       url: mailto:genevereyes@gmail.com
