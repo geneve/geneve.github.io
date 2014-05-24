@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello, World"
+title:  "Hello, world!"
 date:   2014-05-23 17:39:00 
 categories: pilot
 ---
