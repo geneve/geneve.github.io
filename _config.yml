@@ -8,7 +8,5 @@ urls:
       url: https://github.com/geneve
     - text: linkedin
       url: https://www.linkedin.com/in/genevereyes
-    - text: resume
-      url: /img/reyesgeneve.pdf
     - text: email
       url: mailto:genevereyes@gmail.com
