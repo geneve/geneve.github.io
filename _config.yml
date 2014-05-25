@@ -4,9 +4,9 @@ pygments: true
 github: https://www.github.com/geneve
 about: Welcome! My name is Gene. Currently a student in San Francisco, dabbling in object-oriented technologies.
 urls:
-    - text: github
-      url: https://github.com/geneve
     - text: linkedin
       url: https://www.linkedin.com/in/genevereyes
+    - text: github
+      url: https://github.com/geneve
     - text: email
       url: mailto:genevereyes@gmail.com
