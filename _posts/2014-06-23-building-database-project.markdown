@@ -6,11 +6,11 @@ categories: blog
 ---
 # Overview
 This past spring I had the oppurtunity to take a Database Management class at SF State. For our final project, we were tasked to design and construct a database for some organization (real or imaginary). Our grade heavily depended on intelligent use of concepts that we learned throughout the semester. The deliverables for this project included:
-*  A three-page text write-up
-*  An E-R diagram showing entities, attributes, relationships, primary keys, foreign keys, cardinalities, and min/max constraints (handwritten on original document)
-*  A schema of relations showing primary keys, foreign keys, and referential integrity
-*  A set of three text files of SQL statements that 1) build, 2) load, and 3) query our database; and finally
-*  A logfile that shows the results of running our text files
+* A three-page text write-up
+* An E-R diagram showing entities, attributes, relationships, primary keys, foreign keys, cardinalities, and min/max constraints (handwritten on original document)
+* A schema of relations showing primary keys, foreign keys, and referential integrity
+* A set of three text files of SQL statements that 1) build, 2) load, and 3) query our database; and finally
+* A logfile that shows the results of running our text files
 
 ## Team
 It was an awesome experience working with two (originally three) awesome classmates on this project. I felt like every time we met, I learned something new. Details for these two group mates can be found on my [LinkedIn](https://www.linkedin.com/in/genevereyes) profile under "Projects".
