@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building a Relational Database Project"
+title:  "Project: Building a Relational Database"
 date:   2014-06-25 20:34:00 
 categories: blog
 ---
