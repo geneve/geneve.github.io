@@ -20,4 +20,4 @@ It was an awesome experience working with two (originally three) awesome classma
 Prior to this class, I only learned of database concepts as subunits in prior Information Systems classes. Being able to actually learn concepts from best design practices for data integrity, to writing  advanced SQL queries made me realize that there's much to learn. So I did. As a part of my quest to learn tech, I hopped on Coursera's ["Introduction to Database"](https://class.coursera.org/db) class to further my understanding.
 
 ## Final Product
-*[Download PDF File](https://genevereyes.com/img/database-design.pdf)*
+*[Download PDF File](http://genevereyes.com/img/database-design.pdf)*
