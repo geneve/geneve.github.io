@@ -11,3 +11,5 @@ urls:
       url: https://github.com/geneve
     - text: email
       url: mailto:genevereyes@gmail.com
+    - text: database design
+      url: /blog/2014-06-23-bulding-database-project.markdown

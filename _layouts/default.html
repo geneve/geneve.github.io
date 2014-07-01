@@ -34,7 +34,9 @@
         <br />
         
         <strong>projects</strong><br />
-				<a href="/_posts/2014-06-23-bulding-database-project.markdown">database design</a> <br />
+				{% for i in site.urls %}
+					<a class="about" href="{{ i.url }}">{{ i.text }}</a><br />
+				{% endfor %}
 				
 				{% if site.about %}
 				<div id="about">
