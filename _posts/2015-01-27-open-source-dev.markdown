@@ -10,7 +10,7 @@ This is a project for an elective class in the Information Systems department. T
 * Phase I - Proposal
 * Phase II - Systems Design
 * Phase III - Prototype
-* Phase V - Final Report
+* Phase IV - Final Report
 
 ## Learning Experience
 This elective class was not required for me to take in order to graduate. But because I was interested in learning more about web development--specifically open source web development, I decided to dig deeper through this class. I was introduced to a team of talented individuals and was fortunate enough to have a working project at the end of it all. 
