@@ -17,7 +17,7 @@ This past spring I had the opportunity to take a Database Management class at SF
 It was an awesome experience working with two (originally three) awesome classmates on this project. I felt like every time we met, I learned something new. Details for these two group mates can be found on my [LinkedIn](https://www.linkedin.com/in/genevereyes) profile under "Projects".
 
 ## Learning Experience
-Prior to this class, I only learned of database concepts as subunits in prior Information Systems classes. Being able to actually learn concepts from best design practices for data integrity, to writing advanced SQL queries made me realize that there's much to learn. So I did. As a part of my quest to learn tech, I hopped on Coursera's ["Introduction to Database"](https://class.coursera.org/db) class to further my understanding.
+Prior to this class, I only learned of database concepts as subunits in prior Information Systems classes. Being able to actually learn concepts from best design practices for data integrity, to writing advanced SQL queries made me realize that there's much to learn. So I did. As a part of my quest to learn technology, I hopped on Coursera's ["Introduction to Database"](https://class.coursera.org/db) class to further my understanding.
 
 ## Final Product
 *[Download PDF File](http://geneve.github.io/img/database-design.pdf)*

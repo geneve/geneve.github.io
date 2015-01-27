@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Whole Foods Market Business Strategy"
-date:   2015-01-27 
+date:   2015-01-27 12:30:00
 categories: blog
 ---
 # Overview
