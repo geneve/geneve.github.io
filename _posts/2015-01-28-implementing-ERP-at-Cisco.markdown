@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Implementing ERP at Cisco Systems, Inc."
-date:   2015-01-27 10:11:00
+date:   2015-01-28 10:11:00
 categories: blog
 ---
 # Overview
