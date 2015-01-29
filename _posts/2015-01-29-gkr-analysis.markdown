@@ -9,7 +9,7 @@ This is a project for IT Project Management class for the last semester of my un
 
 We have chosen ["GoKart Racer"](https://www.gokartracer.com/) to do our analysis on because of our team's involvment with the company and the knowledge of the recent expansion to Sacramento. We essentially, as acting pro-bono consultants, gathered  information from several resources (including owener Dave) to come to helpful conclusions.
 
-Ultimately this project was really fun and very rewarding. Our professor couldn't help but give us an "A" for all the hard work.
+Ultimately, this project was really fun and very rewarding. Our professor couldn't help but give us an "A" for all the hard work.
 
 The main deliverables for the project included:
 
@@ -22,4 +22,4 @@ The main deliverables for the project included:
 ## Final Product
 *[Whitepaper (pdf)](http://geneve.github.io/img/gkr-analysis.pdf)*
 
-*[Slide Deck (pdf)](https://github.com/weksos21/gkr-deck)*
+*[Slide Deck (pdf)](https://github.com/weksos21/gkr-deck.pdf)*
