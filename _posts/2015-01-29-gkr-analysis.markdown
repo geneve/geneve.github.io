@@ -22,4 +22,4 @@ The main deliverables for the project included:
 ## Final Product
 *[Whitepaper (pdf)](http://geneve.github.io/img/gkr-analysis.pdf)*
 
-*[Slide Deck (pdf)](https://github.com/weksos21/gkr-deck.pdf)*
+*[Slide Deck (pdf)](http://geneve.github.io/img/gkr-deck.pdf)*
