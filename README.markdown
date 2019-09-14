@@ -1,5 +1,1 @@
-#Geneve's Jekyll Site
-Portfolio site using Jekyll, Nitrous, and hosted using GitHub Pages.
-
-##About
-This site is using the following template: https://github.com/exaem/simplygrey-jekyll
+#Gene's GitHub Pages site
